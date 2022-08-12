@@ -19,7 +19,9 @@
 			{
 				"path": "/usr/bin/bash"
       		}
-    	}
+    	},
+
+		"cmake.generator": "Unix Makefiles"
 	},
 
 	// Add the IDs of extensions you want installed when the container is created.
